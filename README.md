@@ -5,7 +5,7 @@
 - <b>Microsoft Azure: SIEM Project</b>
   - [Microsoft Azure: SIEM](https://github.com/anwarsyed1/MicrosoftAzureSentinental-SIEM-)
 - <b>Active Directory Home Lab</b>
-  - [Active Directory](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory](https://github.com/anwarsyed1/Active-Directory-Project)
 - <b>Nessus Essential Vulnerability Management Project</b>
   - [Nessus Essential Vulnerability Management](https://github.com/joshmadakor1/Algorithms-Practice)
 
