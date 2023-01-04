@@ -11,7 +11,7 @@
 
 <h2>Certifications</h2>
 
-- [IBM Cloud Security Engineer](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Microsoft Certified: Azure Fundamentals](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [AWS Certified Cloud Practitioner](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [IBM Cloud Security Engineer]()
+- [Microsoft Certified: Azure Fundamentals]()
+- [AWS Certified Cloud Practitioner]()
 
