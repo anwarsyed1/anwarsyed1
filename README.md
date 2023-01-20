@@ -9,6 +9,11 @@
 - <b>Nessus Essential Vulnerability Management Project</b>
   - [Nessus Essential Vulnerability Management](https://github.com/anwarsyed1/VulnerabilityManagement-NessusEssentials)
 
+<h2>Mobile App Development Projects:</h2>
+
+- <b>Food Delivery Application Project</b>
+  - [Android Studio: Omeal](https://youtu.be/1oL-4Zecd7Q)
+
 <h2>Certifications</h2>
 
 - [IBM Cloud Security Engineer](https://github.com/anwarsyed1/IBM-Cloud-Security-Engineer-Cert-)
