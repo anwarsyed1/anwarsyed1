@@ -9,9 +9,9 @@
 - <b>Nessus Essential Vulnerability Management Project</b>
   - [Nessus Essential Vulnerability Management](https://github.com/anwarsyed1/VulnerabilityManagement-NessusEssentials)
 
-<h2>🖥️ Software Security Projects:</h2>
+<h2>🖥️ Software/Application Security Projects:</h2>
 
-- <b>REST API with Node JS and Express Project</b>
+- <b>REST API for Medical Clinic with Node JS and Express Project</b>
   - [REST API with Node JS and Express](https://github.com/anwarsyed1/REST-API-with-Node-JS-Express)
   
 <h2>📱 Mobile App Development Projects:</h2>
