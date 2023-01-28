@@ -4,8 +4,6 @@
 
 - <b>Microsoft Azure: SIEM & SOAR HoneyPot Project</b>
   - [Microsoft Azure: SIEM & SOAR](https://github.com/anwarsyed1/MicrosoftAzureSentinental-SIEM-)
-- <b>Microsoft Azure: SIEM & SOAR Setup Syslog Collector to Automate ServiceNow Tickets Project</b>
-  - [Microsoft Azure: SIEM & SOAR](https://github.com/anwarsyed1/MicrosoftAzureSentinental-SIEM-)
 - <b>Active Directory Home Lab</b>
   - [Active Directory](https://github.com/anwarsyed1/Active-Directory-Project)
 - <b>Nessus Essential Vulnerability Management Project</b>
@@ -17,8 +15,6 @@
   - [REST API with Node JS and Express](https://github.com/anwarsyed1/REST-API-with-Node-JS-Express)
 - <b>AWS Web Application Security using DVWA Project</b>
   - [AWS Web Application Security using DVWA (Damn Vulnerable Web Application) Project]()
-- <b>AWS Web Application Security using WebGoat Project</b>
-  - [AWS Web Application Security using WebGoat Project]()
   
 <h2>📱 Mobile App Development Projects:</h2>
 
