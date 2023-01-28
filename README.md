@@ -13,6 +13,8 @@
 
 - <b>REST API for Medical Clinic with Node JS and Express Project</b>
   - [REST API with Node JS and Express](https://github.com/anwarsyed1/REST-API-with-Node-JS-Express)
+- <b>AWS Web Application Security using DVWA Project</b>
+  - [AWS Web Application Security using DVWA (Damn Vulnerable Web Application) Project](https://github.com/anwarsyed1/REST-API-with-Node-JS-Express)
   
 <h2>📱 Mobile App Development Projects:</h2>
 
