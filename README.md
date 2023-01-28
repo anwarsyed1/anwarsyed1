@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Microsoft Azure: SIEM Project</b>
-  - [Microsoft Azure: SIEM](https://github.com/anwarsyed1/MicrosoftAzureSentinental-SIEM-)
+- <b>Microsoft Azure: SIEM & SOAR Project</b>
+  - [Microsoft Azure: SIEM & SOAR](https://github.com/anwarsyed1/MicrosoftAzureSentinental-SIEM-)
 - <b>Active Directory Home Lab</b>
   - [Active Directory](https://github.com/anwarsyed1/Active-Directory-Project)
 - <b>Nessus Essential Vulnerability Management Project</b>
