@@ -1,4 +1,9 @@
 <h1>Hi, I'm Anwar! <br/><a href="https://github.com/anwarsyed1"> <a href="https://www.linkedin.com/in/anwarullahsyed/">Cybersecurity Professional</a></h1>
+  
+<h2>🔁 Automations Using Script Projects:</h2>
+
+- <b>Automation of Cybersecurity News Project</b>
+  - [Automation of Cybersecurity News ()
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
