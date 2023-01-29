@@ -28,7 +28,7 @@
   
 <h2>📱 Mobile App Development Projects:</h2>
 
-- <b>Food Delivery Application Project</b>
+- <b>Food Delivery Application using Kotlin/HTML/CSS Project</b>
   - [Android Studio: Omeal](https://youtu.be/1oL-4Zecd7Q)
 
 <h2>🥇 Certifications</h2>
