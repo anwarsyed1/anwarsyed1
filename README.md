@@ -29,7 +29,7 @@
 - <b>Food Delivery Application Project</b>
   - [Android Studio: Omeal](https://youtu.be/1oL-4Zecd7Q)
 
-<h2>Certifications</h2>
+<h2>🥇 Certifications</h2>
 
 - [IBM Cloud Security Engineer](https://github.com/anwarsyed1/IBM-Cloud-Security-Engineer-Cert-)
 - [Microsoft Certified: Azure Fundamentals]()
