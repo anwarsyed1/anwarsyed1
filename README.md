@@ -3,7 +3,7 @@
 <h2>🔁 Automations Using Script Projects:</h2>
   
 - <b>Automation of Pentesting Port Scanner Project</b>
-  - [Automation of Port Scanning Pentesting Project](
+  - [Automation of Port Scanning Pentesting Project](https://github.com/anwarsyed1/Automation-of-Port-Scanning-Pentesting-Project)
 - <b>Automation of Cybersecurity News Project</b>
   - [Automation of Cybersecurity News](https://github.com/anwarsyed1/Automation-of-Cybersecurity-News-with-Scripts)
 - <b>Automation of Cybersecurity CVE List Generator Project</b>
