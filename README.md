@@ -3,7 +3,7 @@
 <h2>🔁 Automations Using Script Projects:</h2>
 
 - <b>Automation of Cybersecurity News Project</b>
-  - [Automation of Cybersecurity News ()
+  - [Automation of Cybersecurity News] ()
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
