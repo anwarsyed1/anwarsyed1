@@ -4,6 +4,9 @@
 
 - <b>Automation of Cybersecurity News Project</b>
   - [Automation of Cybersecurity News](https://github.com/anwarsyed1/Automation-of-Cybersecurity-News-with-Scripts)
+- <b>Automation of Cybersecurity CVE List Generator Project</b>
+  - [Automation of Cybersecurity CVE (Common Vulnerabilities and Exposures) List Generator Project](https://github.com/anwarsyed1/Automation-of-Cybersecurity-News-with-Scripts)
+
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
